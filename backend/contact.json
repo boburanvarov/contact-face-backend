@@ -1,0 +1,36 @@
+{
+    "contactData" : [
+        {
+            "name" : "Javod Oka",
+            "phone" : "+9989*****777"
+        },
+        {
+            "name" : "Stiv Jobs",
+            "phone" : "+9989*****888"
+        },
+        {
+            "name" : "Mark Zakerberg",
+            "phone" : "+9989*****999"
+        },
+        {
+            "name" : "Ilon Mask",
+            "phone" : "+9989*****222"
+        },
+        {
+            "name" : "Pavel Durov",
+            "phone" : "+9989*****111"
+        },
+        {
+            "name" : "Jeck Ma",
+            "phone" : "+9989*****333"
+        },
+        {
+            "name" : "Jeff Bezos",
+            "phone" : "+9989*****444"
+        },
+        {
+            "name" : "Bill Geyts",
+            "phone" : "+9989*****666"
+        }
+    ]
+}
